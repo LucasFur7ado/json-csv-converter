@@ -15,6 +15,8 @@ y el comando **node csv.js**.
 La primera línea en un archivo CSV representa los nombres de las columnas, es decir
 los futuros campos del archivo JSON.
 
+Los archivos convertidos se guardan en la carpeta con el nombre del nuevo formato de estos.
+
 **EN**
 
 ## Requirements: NodeJS installed
@@ -28,3 +30,5 @@ directory and the following command: **node csv.js**.
 
 The first line in a CSV file must represent the name of the columns, 
 future fields in the JSON file.
+
+Converted files are saved in the folder with the name of the new format.
