@@ -1,0 +1,12 @@
+{
+  "name": "csv-converter",
+  "version": "1.0.0",
+  "description": "CSV/JSON converter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucasfurtado.es",
+  "license": "ISC"
+}
